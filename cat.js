@@ -8,5 +8,5 @@ console.log("an chuot");
 console.log("meo meo");
 console.log("an thit chuot");
 console.log("an ca");
-console.log("an tom");
-console.log("an cua");
+
+console.log("an cuassssssssssss");
