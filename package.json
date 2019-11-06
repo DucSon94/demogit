@@ -1,0 +1,11 @@
+{
+  "name": "projectgit",
+  "version": "1.0.0",
+  "description": "this project is a demo how to use git",
+  "main": "bufalow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
