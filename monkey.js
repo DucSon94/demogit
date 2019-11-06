@@ -1,1 +1,3 @@
-function Monkey() {}
+function Monkey() {
+    console.log('aaa');
+}
