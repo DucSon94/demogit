@@ -1,1 +1,3 @@
-function horse() {}
+function horse() {
+    console.log("aa");
+}
