@@ -10,4 +10,8 @@ console.log("an thit chuot");
 console.log("an ca");
 console.log("an tom");
 console.log("an cua");
+
 console.log("an khung long");
+
+console.log("an kem");
+
